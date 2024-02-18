@@ -32,8 +32,8 @@
      - coverage report
 
 ## Документация:
-http://localhost:8000/swagger/
-http://localhost:8000/redoc/
+ - http://localhost:8000/swagger/
+ - http://localhost:8000/redoc/
 
 ## Тесты:
 Отчёт о покрытии тестами проекта находится в файле tests_result.txt.
